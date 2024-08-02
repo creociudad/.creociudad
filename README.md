@@ -1,14 +1,21 @@
 <!-- Header -->
 <h1 align="left">¡Hola!👋Bienvenido(a) a la Dev-Community de @CreoCiudad</h1>
 
-<p align="left" style="background-color: #1dc7db; color: #FFFFFF;">My name is Juan Sebastián Jiménez Aguilar and I'm a desarrollador de software, from Bogotá.</p>
-<a href="https://www.creociudad.org/" target="_blank" style="text-decoration: none; color: #FFFFFF;">www.creociudad.org</a>
+<p align="left" style="background-color: #1dc7db; color: #FFFFFF;">Somos una organización juvenil de Bogotá - Colombia.</p>
+<p align="left" style="background-color: #1dc7db; color: #FFFFFF;">Trabajamos en proyectos (labs) intersectorales en 5 clústers estratégicos:<br>Política | Empresas | Academia | Activismo | Deporte<br>Llevamos a cabo iniciativas de incidencia transformadoras, vinculamos la innovación y el desarrollo digital para lograr soluciones que construyan un mejor futuro para nuestra ciudad.</p>
+
+
+<p align="left" style="background-color: #1dc7db; color: #FFFFFF;">Corporación CREO CIUDAD | Conócenos: <a href="https://www.creociudad.org/" target="_blank" style="text-decoration: none; color: #FFFFFF;">www.creociudad.org</a>
+</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<!-- About Me -->
+## Datos sobre nosotros
+- 🌱 Actualmente estoy aprendiendo **[nombre de la tecnología o herramienta]**
+- 👯 Estoy buscando colaborar en **[proyecto o tipo de proyecto]**
+- 💬 Pregúntame sobre **[tema de tu experiencia]**
+- 📫 Cómo contactarme: **[tu-email@example.com]**
 
 ###
 
@@ -50,12 +57,7 @@
   </a>
 </p>
 
-<!-- About Me -->
-## Sobre mí
-- 🌱 Actualmente estoy aprendiendo **[nombre de la tecnología o herramienta]**
-- 👯 Estoy buscando colaborar en **[proyecto o tipo de proyecto]**
-- 💬 Pregúntame sobre **[tema de tu experiencia]**
-- 📫 Cómo contactarme: **[tu-email@example.com]**
+
 
 <!-- GitHub Stats -->
 ## Estadísticas de GitHub
